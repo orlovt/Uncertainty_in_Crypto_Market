@@ -1,4 +1,4 @@
-This is a coursework on uncertainty in crypto markets i've done with my friend. 
+This is a coursework on uncertainty in crypto markets i've done with my friend back at HSE 3rd year of my econ bs. 
 In order to do the research we had to use CoinGecko's API and download historical data for the top 100 crypocurrencies. 
 After that we've cleaned the data and transformed it to log returns in order to bypass the multicollinearity issue. 
 To prove our hypothesis  we've conducted some test with STATA 12
